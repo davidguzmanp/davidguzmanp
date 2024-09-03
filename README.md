@@ -42,6 +42,11 @@ Python | PyTorch | TensorFlow | SQL | Git | Hugging Face Transformers | NLP | Ti
 [LinkedIn](https://linkedin.com/in/davidguzman1120) 
 
 *Open to full-time opportunities in ML/AI research and development roles! If you're seeking a dedicated AI engineer who can drive innovation and deliver results, let's connect!*
+
+## ❤️ Favorite project
+
+I really like [Scrapegraphai](https://github.com/ScrapeGraphAI/Scrapegraph-ai). I think it will change the way we extract data from documents
+
 <!--
 **davidguzmanp/davidguzmanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
