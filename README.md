@@ -20,18 +20,19 @@ Then I'm the right person for your role! With experience in academic research an
 Python | PyTorch | TensorFlow | SQL | Git | Hugging Face Transformers | NLP | Time Series Forecasting
 
 ## 🔍 Recent Projects
-- [BeamAttack](https://github.com/davidguzmanp/BeamAttack): SOTA adversarial attacks against NLP classifiers (CLEF2024 Competition Submission)
+- [BeamAttack](https://github.com/davidguzmanp/BeamAttack](https://ceur-ws.org/Vol-3740/paper-42.pdf ): SOTA adversarial attacks against NLP classifiers (CLEF2024 Competition Submission)
+  - **Published in CEUR-WS** [(click here)](https://ceur-ws.org/Vol-3740/paper-42.pdf)
   - Developed a novel algorithm that significantly outperforms traditional greedy search methods in generating adversarial text
   - Achieved up to 2.8x and 3.3x improvement in success rates against BiLSTM and BERT models, respectively
   - Implemented adaptive beam search techniques to balance attack effectiveness and computational efficiency
 
-- [Distilling Chain-of-Thought Reasoning](https://github.com/davidguzmanp/chain-of-thought-distillation): Enhancing task-specific workflows
+- [Distilling Chain-of-Thought Reasoning](https://github.com/davidguzmanp/Graph-to-Text-LLM-with-dataset-augmentation/tree/main): Enhancing task-specific workflows
   - Created an innovative graph-to-text pipeline by breaking down complex tasks into manageable stages
   - Implemented knowledge distillation to incorporate chain-of-thought reasoning into smaller, more efficient models
   - Leveraged synthetic data from LLMs to improve performance in low-resource settings
   - Achieved a 9.22% increase in BLEU score and 12.31% improvement in TER
 
-- [Metaphors Unveiled](https://github.com/davidguzmanp/metaphor-interpretation): Exploring LLMs for figurative text interpretation
+- [Metaphors Unveiled](https://github.com/davidguzmanp/Essentials): Exploring LLMs for figurative text interpretation
   - Evaluated various LLMs (FLANT5 large, Mistral, Phi1.5B) on their ability to interpret and simplify figurative language
   - Combined sequence-to-sequence fine-tuning with advanced prompt engineering techniques
   - Boosted accuracy from 61.5% to 71.4% through optimized prompt design
